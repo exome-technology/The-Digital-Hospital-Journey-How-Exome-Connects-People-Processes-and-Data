@@ -149,7 +149,7 @@ The journey toward becoming a digital hospital is about more than technology. It
 
 By enabling digital healthcare transformation, supporting workflow automation, improving patient management solutions, and delivering powerful healthcare analytics, Exome helps organizations modernize healthcare delivery and unlock new levels of efficiency.
 
+As healthcare continues to evolve, connected platforms like Exome will play an increasingly important role in helping organizations provide smarter, faster, and more coordinated care for the communities they serve.
+
 Ready to build a connected healthcare ecosystem? Discover how Exome helps hospitals and clinics unify people, processes, and data to deliver smarter healthcare experiences.
 https://exomemed.com/
-
-As healthcare continues to evolve, connected platforms like Exome will play an increasingly important role in helping organizations provide smarter, faster, and more coordinated care for the communities they serve.
